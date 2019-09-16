@@ -1,1 +1,1 @@
-The map for this final project displays classified ecosystems and critical habitats in the United States.
+The map for this project displays classified ecosystems and critical habitats in the United States.
