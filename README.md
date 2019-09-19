@@ -4,4 +4,4 @@ Ecosystem data comes from <a href="https://ecoregions2017.appspot.com/">Ecoregio
 
 This map uses the North America Albers Equal Area (EPSG:102008) coordinate reference system.
 
-<img src="https://raw.githubusercontent.com/heltond/ecosystem-habitats/master/project/graphics/Ecosystems_1200px.png">
+<img src="https://github.com/heltond/ecosystem-habitats/blob/master/graphics/Ecosystems_1200px.png?raw=true">
